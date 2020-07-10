@@ -1,0 +1,5 @@
+a:=3;
+b:=5;
+c:=a+b;
+while i>20 do if j<=7 then j:=j+1;
+if k > j then if j > 5 then j := j1 + k;

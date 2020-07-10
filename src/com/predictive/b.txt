@@ -1,0 +1,3 @@
+S::=SaB|bB
+A::=S|a
+B::=Ac
